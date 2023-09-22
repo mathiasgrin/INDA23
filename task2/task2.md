@@ -23,8 +23,8 @@ Mathias Grindsäter (grin@kth.se)
 `String`.
 
 2) Skapa en konstruktor som ger initiala värden till de tre fälten.
-3) Skapa tre getters-metoder.
-4) Skapa 2 setters-metoder (`balance` ska inte ha en setter ).
+3) Skapa tre getter-metoder.
+4) Skapa 2 setter-metoder (`balance` ska inte ha en setter ).
 5) Skapa en metod `deposit`. När man kallar på metoden sätter man in
 en given summa som argument. Fältet `balance` ska då uppdateras.
 6) I metoden `deposit`, hur kan vi hindra att man inte kan sätta in negativa
