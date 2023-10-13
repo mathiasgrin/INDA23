@@ -41,9 +41,9 @@ public class RemoveDuplicates {
 
 ```
 
-##Matrix
+## Matrix
 
-###1. Printa matrisen
+### 1. Printa matrisen
 
 1. Skapa en klass `Matrix`.
 2. Skapa en matris i `main`-metoden.
