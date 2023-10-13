@@ -64,9 +64,4 @@ public class Stack<T> {
             System.out.println("Popped element: " + intStack.pop());
         }
     }
-
-
-
-
-
 }
